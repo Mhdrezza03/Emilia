@@ -7,7 +7,7 @@ Based on [marie bot](https://github.com/PaulSonOfLars/tgbot)
 
 **If you want to translate this bot**, [please go here](https://github.com/AyraHikari/EmiliaHikari/blob/master/TRANSLATION.md)
 
-Dapat ditemukan di telegram sebagai [Emilia](https://t.me/YasirGroupManagerBot).
+Dapat ditemukan di telegram sebagai [Balqis](https://t.me/Balqissbot).
 
 ## Heroku Deploy
 
